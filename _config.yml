@@ -1,6 +1,4 @@
 # Dependencies
-markdown:         redcarpet
-
 gems: [jekyll-gist]
 
 # Permalinks

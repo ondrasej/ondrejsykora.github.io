@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+gems: [jekyll-gist]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ondřej Sýkora
+tagline:          'Ondřej Sýkora'
+description:      'Software engineer. Game enthusiast. Nature lover.'
+url:              http://ondrejsykora.com
+baseurl:          /
+
+author:
+  name:           'Ondřej Sýkora'
+  url:            https://twitter.com/mdo
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+# Contents
+collections:
+  projects:
+    output: true

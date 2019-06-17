@@ -16,6 +16,4 @@ pieces, and you were probably wrong. In this version, you would be right.
 The principle is simple enough - the game contains an evaluation function that
 adds "score" for each gap closed from above (and a special bonus for gaps
 closed from all sides) and chooses pieces that lead to highest scores, with
-simple planning based on the MiniMax algorithm. [Try it
-out](http://trionteam.net/archiv/tetris.zip) yourself - how many rows did you
-make?
+simple planning based on the MiniMax algorithm.
